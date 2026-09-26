@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "cloudburn": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@cloudburn/mcp@0.1.0"
+      ]
+    }
+  }
+}
