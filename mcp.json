@@ -6,7 +6,7 @@
       "command": "npx",
       "args": [
         "-y",
-        "@cloudburn/mcp@0.1.7"
+        "@cloudburn/mcp@0.1.8"
       ]
     }
   }
